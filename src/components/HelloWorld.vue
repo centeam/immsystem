@@ -19,6 +19,7 @@
         alt="handsome"
       >
     </v-avatar>
+    <h2>누나들 힘내요 화이팅</h2>
   </div>
 </template>
 
