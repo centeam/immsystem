@@ -1,4 +1,5 @@
 # immsystem
+<<<<<<< HEAD
 
 ## Project setup
 ```
@@ -27,3 +28,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+Inventory middle management system 
+>>>>>>> 3648180fc47266b97e081b3628e9732b4d692edb
