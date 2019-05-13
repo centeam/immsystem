@@ -1,10 +1,11 @@
-# immsystem
+# immsystem (Inventory Middle Management System)
+# Copyright @ Kyungah Kim
 <<<<<<< HEAD
 
 ## Project setup
 ```
 npm install
-```
+
 
 ### Compiles and hot-reloads for development
 ```
